@@ -1,13 +1,13 @@
-/*******************************************************************************
-*
-* Program: Rock Paper Scissors Game
+/*****************************************************************************
+
+* Rock Paper Scissors Game
 * 
 * Description: Rock paper scissors game implementation in C++.  Learn more about
 * the game here: https://en.wikipedia.org/wiki/Rock_paper_scissors.
 *
-* YouTube Lesson: https://www.youtube.com/watch?v=ZnyQq2mFGik 
+*  
 *
-* Author: Kevin Browne @ https://portfoliocourses.com
+* 
 *
 *******************************************************************************/
 
