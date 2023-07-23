@@ -5,10 +5,6 @@
 * Description: Rock paper scissors game implementation in C++.  Learn more about
 * the game here: https://en.wikipedia.org/wiki/Rock_paper_scissors.
 *
-*  
-*
-* 
-*
 *******************************************************************************/
 
 // In the game of rock paper scissors both players make a "throw" of either 
