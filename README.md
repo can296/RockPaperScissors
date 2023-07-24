@@ -1,7 +1,7 @@
 # What's this repo?
 An easy rock-paper-scissors game coded in C++. 
 
-In the file named "rps.cpp" I explained how to play for those who do not know.
+I explained how I wrote the codes and how they were played, in the file called "rps.cpp".
 
 Support me: https://www.buymeacoffee.com/cann66dev
 
