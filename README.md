@@ -1,4 +1,4 @@
-# RockPaperScissors
+# What's this repo?
 An easy rock-paper-scissors game coded in C++. 
 
 In the file named "rps.cpp" I explained how to play for those who do not know.
